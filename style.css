@@ -18,6 +18,9 @@ body{
 	font-weight: 350;
 
 }
+#contentwarning{
+	padding: 30px;
+}
 div{
 	padding: 10px;
 }
