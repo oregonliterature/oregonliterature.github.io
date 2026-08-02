@@ -1,0 +1,15 @@
+div{
+	
+	color: #f8f3ed;
+}
+
+body{
+	background-color:#a3ac67;
+}
+
+#contentwarning{
+	background-color: #f8f3ed;
+}
+#contentwarning:active{
+	background-color: #a3ac67;
+}

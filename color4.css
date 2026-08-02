@@ -1,0 +1,15 @@
+div{
+	
+	color: #331a00;
+}
+
+body{
+	background-color:#e6e6e6;
+}
+
+#contentwarning{
+	background-color: #331a00;
+}
+#contentwarning:active{
+	background-color: #e6e6e6;
+}

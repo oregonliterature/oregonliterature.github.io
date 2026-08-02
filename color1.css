@@ -1,0 +1,15 @@
+div{
+	
+	color: white;
+}
+
+body{
+	background-color: #65718e;
+}
+
+#contentwarning{
+	background-color: white;
+}
+#contentwarning:active{
+	background-color: #65718e;
+}
