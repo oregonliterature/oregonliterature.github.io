@@ -10,6 +10,3 @@ body{
 #contentwarning{
 	background-color: black;
 }
-#contentwarning:active{
-	background-color: #ffffcc;
-}
